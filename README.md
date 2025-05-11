@@ -3,7 +3,7 @@
 <img src="./assets/github.gif" width="100"/>
 
 <h1>
-Hi everyone! Welcome to my GitHub. I'm Andrii!
+Hi everyone! Welcome to my GitHub. I'm Andrii Marchenko!
 <img src="./assets/giphy.gif" width="30px" alt="GIF">
 </h1>
 
