@@ -45,6 +45,23 @@ Hi everyone! Welcome to my GitHub. I'm Andrii Marchenko!
 </table>
 </div>
 
+### Here are my GitHub stats:
+
+<table align="center" width="100%">
+  <tr>
+    <td valign="top" width="50%" align="center">
+      <a href="https://github.com/andrii-marchenko22" height="100%">
+        <img alt="Andrii Marchenko Github Stats" src="https://github-readme-stats.vercel.app/api?username=andrii-marchenko22&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/>
+      </a>
+    </td>
+    <td valign="top" width="50%" align="center">
+      <a href="https://github.com/andrii-marchenko22" height="100%">
+        <img alt="Andrii Marchenko Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrii-marchenko22&langs_count=10&layout=compact&theme=buefy&hide_border=true"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 ###
 
    <p align="center">
