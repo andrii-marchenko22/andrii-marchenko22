@@ -48,5 +48,5 @@ Hi everyone! Welcome to my GitHub. I'm Andrii!
 ###
 
    <p align="center">
- <img width="600" src="./assets/github-snake.svg" alt="snake"/>
+ <img width="600" src="./img/github-snake.svg" alt="snake"/>
     </p>
