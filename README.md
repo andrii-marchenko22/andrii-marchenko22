@@ -34,6 +34,10 @@ Hi everyone! Welcome to my GitHub. I'm Andrii Marchenko!
         <img src="./img/react.svg" alt="React" width="44" height="44"/>
       <br>React.js
     </td>
+        <td align="center" width="88">
+        <img src="./img/nextjs.svg" alt="React" width="44" height="44"/>
+      <br>Next.js
+    </td>
     <td align="center" width="88">
       <img src="./img/nodejs.svg" alt="Node.js" width="44" height="44"/>
       <br>Node.js
